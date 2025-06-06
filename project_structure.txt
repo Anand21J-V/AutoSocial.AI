@@ -1,0 +1,9 @@
+AutoSocialAI/
+│
+├── main.py                       # Main script to run agents
+├── crew_config.py               # CrewAI agent & task config
+├── video_creator.py             # Reel generation module
+├── instagram_bot.py             # IG automation with instagrapi
+├── scheduler.py                 # Daily cron job
+├── .env                         # Secret API keys
+├── requirements.txt

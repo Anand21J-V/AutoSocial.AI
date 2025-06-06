@@ -1,0 +1,7 @@
+crewai
+openai
+instagrapi
+moviepy
+python-dotenv
+groq
+schedule
